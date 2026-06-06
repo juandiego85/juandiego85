@@ -1,4 +1,3 @@
-```md
 # 👋 Hola, soy Juan Diego Inga
 
 ### Software Developer | AI Engineer
