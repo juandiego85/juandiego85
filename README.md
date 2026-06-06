@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Juan Diego 👋
 
-<!--
-**juandiego85/juandiego85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ingeniero de Sistemas con experiencia en desarrollo de software empresarial
+y especialización en Inteligencia Artificial.
 
-Here are some ideas to get you started:
+## Áreas de interés
+- Machine Learning y Deep Learning
+- Visión por computador
+- Modelos multimodales
+- RAG y agentes de IA
+- Backend y despliegue de soluciones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- Python, Java y Spring Boot
+- PyTorch, Scikit-learn y CatBoost
+- Docker, FastAPI y Git
